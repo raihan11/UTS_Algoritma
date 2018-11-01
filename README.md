@@ -45,7 +45,9 @@ int main(){
 
 
 ```
-*Soal Program**
+**Soal Kedua**
+
+**Alur Program**
 
 1. deklarasi varaible input N,X,T, Batas;
 sebagai inputnya
